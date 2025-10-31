@@ -92,7 +92,7 @@ lib/
 
 1. *Clone the repository*
    bash
-   git clone https://github.com/yourusername/secure-voting-app.git
+   git clone https://github.com/mzaidiii/Trust-Evo
    cd secure-voting-app
    
 
@@ -286,3 +286,4 @@ For questions or feedback, please open an issue or reach out at: mohdmurtaza153@
 ---
 
 *Note:* This is a mini project created for educational and demonstration purposes. It is not recommended for production use without proper security enhancements and SMS integration.
+
